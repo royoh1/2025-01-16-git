@@ -6,3 +6,4 @@ git branches
 - `git branch <NAME>`: this will create a branch <NAME> where `HEAD` is
 - `git switch <NAME>`: moves over to the branch <NAME>
 - `git log --oneline`: see where you are
+- `git push`
